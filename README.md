@@ -1,5 +1,5 @@
-# data_visualization_corso
-# data_visualization
+# PROGETTO N. 0
+# DATA VISUALIZATION
 
 ## HEADER 1
   1. **titolo**
@@ -12,4 +12,4 @@
   
 ![MyImage](download.jpg)
 
-#### HEADER 3
+# HEADER 3
