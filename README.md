@@ -1,15 +1,6 @@
-# PROGETTO N. 0
+
 # DATA VISUALIZATION
 
-## HEADER 1
-  1. **titolo**
-  2. sottotitolo
-
-### HEADER 2
-  * elenco
-  * elenco2
-  * elenco3
+## Libreria Colab
+  1. prova [!Open In Colab](https://colab.research.google.com/drive/1v1VDXPDRF1VsmtAygn5hWAciy4w9mmnc)
   
-![MyImage](download.jpg)
-
-# HEADER 3
